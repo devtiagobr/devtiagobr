@@ -1,10 +1,17 @@
 
-#**`👨🏻‍💻 Tiago`**
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!" alt="Typing SVG">
+  </a>
+</div>
+
+#**`👨🏻‍💻 Tiago`**
+<img align="center" alt="" src="./src/header-gif.gif">
 
 **`Desenvolvedor de software`**
 
-Meu nome é Tiago Leite Santos, tenho 28 anos e sou apaixonado por tecnologia e desenvolvimento, graduado em Sistemas para Internet pela Faculdade de Administração, Negócios e Saúde de Sergipe (FANESE).
+Meu nome é Tiago Leite Santos, tenho 28 anos e sou apaixonado por tecnologia e desenvolvimento, graduado em Sistemas para Internet pela Faculdade de Administração, Negócios e Saúde de Sergipe (FANESE) e Atualmente, atuo como Analista de TI.
  
 <div> 
   <a href="https://www.linkedin.com/in/tiago-santos-609a5a301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -112,4 +119,8 @@ Meu nome é Tiago Leite Santos, tenho 28 anos e sou apaixonado por tecnologia e 
 
 </p>           
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devtiagobr/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devtiagobr/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devtiagobr/devtiagobr/output/github-contribution-grid-snake.svg">
+</picture>
